@@ -1,5 +1,5 @@
 # MoviesRank
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ualashenr/GameList/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ualashenr/MoviesRank/blob/master/LICENSE) 
 
 # Sobre o projeto
 MoviesRank é um projeto com o objetivo de retornar um resumo sobre um filme ou série de acordo com os parâmetros de busca escolhidos pelo usuário.
